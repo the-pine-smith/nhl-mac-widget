@@ -1,0 +1,12 @@
+.{
+    .name = .sportsmenubar,
+    .version = "0.0.1",
+    .fingerprint = 0xd3059b3ba0bc8a5d,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
